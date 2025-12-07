@@ -5,7 +5,6 @@
 
 Hier findest du sämtliche Quellen, die wir dir gratis zur Verfügung stellen.
 
-***
 
 Habt Ihr Fragen rund um xStream findet Ihr sicher eure Antworten in unserer FAQ.
 
