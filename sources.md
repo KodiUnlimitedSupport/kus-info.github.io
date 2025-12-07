@@ -11,4 +11,4 @@ https://kodi-unlimited-support.de/hilfe/basic
 >
 
 
-:+1: This PR looks great - it's ready to merge! :shipit:
+:+1: This PR looks great - it's ready to merge! :shipit: :smiley:
