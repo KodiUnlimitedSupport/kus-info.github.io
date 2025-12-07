@@ -17,5 +17,5 @@ Hier findest du sämtliche Quellen, die wir dir gratis zur Verfügung stellen.
 
 ***
 
-https://www.facebook.com/groups/kodiunlimited
-https://www.paypal.com/paypalme/KodiUnlimited
+:arrow_backward: https://www.facebook.com/groups/kodiunlimited
+Spendenlink: https://www.paypal.com/paypalme/KodiUnlimited
