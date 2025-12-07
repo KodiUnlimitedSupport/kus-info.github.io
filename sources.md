@@ -6,5 +6,5 @@ https://kodi-unlimited-support.de/hilfe/basic
 > Key information users need to know to achieve their goal.
 
 
-> [!NOTE]
+> [!Blabla]
 > Test https://google.de
