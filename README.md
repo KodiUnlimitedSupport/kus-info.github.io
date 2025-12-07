@@ -6,9 +6,7 @@
 Hier findest du sämtliche Quellen, die wir dir gratis zur Verfügung stellen.
 
 
-Habt Ihr Fragen rund um xStream findet Ihr sicher eure Antworten in unserer FAQ.
-
-[![FaQ aufrufen](https://raw.githubusercontent.com/streamxstream/xStreamRepoWeb/gh-pages/config/faq.png)](https://github.com/streamxstream/xStream-FAQ/blob/master/xStream_Anleitung_FAQ.md)
+KUS-Repository: https://kodi-unlimited-support.de/repo
 
 ***
 
