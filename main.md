@@ -15,4 +15,7 @@ Hier findest du sämtliche Quellen, die wir dir gratis zur Verfügung stellen.
 
 :large_blue_diamond: KUS-Wizard: https://kodi-unlimited-support.de/wizard612
 
+***
 
+https://www.facebook.com/groups/kodiunlimited
+https://www.paypal.com/paypalme/KodiUnlimited
