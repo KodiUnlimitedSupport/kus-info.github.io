@@ -1,6 +1,6 @@
 
 
-## Kodi Unlimited Support
+## Kodi Unlimited Support :de:
 
 
 Hier findest du sämtliche Quellen, die wir dir gratis zur Verfügung stellen.
