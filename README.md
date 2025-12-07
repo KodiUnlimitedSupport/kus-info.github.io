@@ -1,10 +1,9 @@
 
 
-## Willkommen auf der xStream Webseite für Kodi!
+## Kodi Unlimited Support
 
-![xStream logo](https://raw.githubusercontent.com/streamxstream/xStreamRepoWeb/gh-pages/icon.png)
 
-Hier auf unserer kleinen Webseite findet Ihr alle erforderlichen Informationen und Links rund um xStream.
+Hier findest du sämtliche Quellen, die wir dir gratis zur Verfügung stellen.
 
 ***
 
