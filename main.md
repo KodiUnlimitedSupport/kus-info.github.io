@@ -17,5 +17,4 @@ Hier findest du sämtliche Quellen, die wir dir gratis zur Verfügung stellen.
 
 ***
 
-:arrow_backward: https://www.facebook.com/groups/kodiunlimited
-Spendenlink: https://www.paypal.com/paypalme/KodiUnlimited
+[![Paypal Logo](https://github.com/KodiUnlimitedSupport/kus-info.github.io/blob/main/icons/checkout-logo-69x32-2x.png)](https://www.paypal.com/paypalme/KodiUnlimited)
